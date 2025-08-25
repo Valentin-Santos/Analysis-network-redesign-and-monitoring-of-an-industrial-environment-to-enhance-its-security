@@ -1,5 +1,4 @@
 # Analysis, Network Redesign, and Monitoring of an Industrial Environment for Cybersecurity Improvement
-*(Application to an Industrial Process Control Mockup)*
 
 ## Description
 
