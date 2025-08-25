@@ -2,10 +2,10 @@
 
 ## Description
 
-This project focuses on improving the cybersecurity of a real industrial environment. The work covers several key tasks:
+This project focuses on improving the security of a real industrial environment. The work covers several key tasks:
 
-- **Overview of Industrial Cybersecurity:** Presents relevant concepts, regulations, and industrial communication protocols used throughout the project.  
-- **Description of Industrial Control Devices:** Details the devices used and the selected monitoring solution.  
+- **Overview of Industrial Security:** Presents relevant concepts, regulations, and industrial communication protocols used throughout the project.  
+- **Description of Industrial Control Systems:** Details the devices used and the selected monitoring solution.  
 - **Initial Analysis and Security Enhancements:** The system is analyzed and security improvements are implemented in two phases:  
   1. **Phase 1:** Initial network segmentation and analysis of communications between devices.  
   2. **Phase 2:** Optimized network segmentation, traffic flow control between zones, and implementation of a DMZ network to protect the industrial network from external access.  
